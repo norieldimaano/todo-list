@@ -1,0 +1,10 @@
+{"name":"Todo List App",
+"short_name":"Todo List",
+"icons"
+:[
+    {"src":"images/android-chrome-192x192.png","sizes":"1500x1500","type":"image/png"},
+    {"src":"images/android-chrome-512x512.png","sizes":"1500x1500","type":"image/png"}
+ ],
+ "theme_color":"#F6AA1C",
+ "background_color":"#F6AA1C",
+ "display":"standalone"}
